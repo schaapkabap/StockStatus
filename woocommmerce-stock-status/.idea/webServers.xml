@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e083a99e-d7b0-42c1-b477-26208052c24e" name="dev" url="http://dev.cherement.nl">
+        <fileTransfer host="dev.cherement.nl" port="21" rootFolder="/dev/wp-content/plugins">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
