@@ -75,6 +75,8 @@ class Woocommerce_Stock_Status {
 		$this->set_locale();
 		$this->define_admin_hooks();
 		$this->define_public_hooks();
+		$this->define_catch_stock_change();
+		$this->define_settings_tab();
 
 	}
 
@@ -107,6 +109,16 @@ class Woocommerce_Stock_Status {
 		 * of the plugin.
 		 */
 		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'includes/class-woocommerce-stock-status-i18n.php';
+
+		/**
+		 * The class defines the settings-tab for in Woocommerce
+		 */
+		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'includes/class-woocommerce-stock-status-settings-tab';
+
+		/**
+		 * The class defines the stock change for in Woocommerce
+		 */
+		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'includes/class-woocommerce-stock-status-stock-change.php';
 
 		/**
 		 * The class responsible for defining all actions that occur in the admin area.
@@ -154,6 +166,24 @@ class Woocommerce_Stock_Status {
 		$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'enqueue_styles' );
 		$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'enqueue_scripts' );
 
+	}
+
+	/**
+	 * Register the setttings tab
+	 */
+	private function define_settings_tab() {
+
+		$settings_tab = Woocommerce_Stock_Status_Settings_Tab_code::init();
+
+	}
+
+	/**
+	 * Register the catch stock changer
+	 */
+
+	private function define_catch_stock_change(){
+
+		$stock_change= new Woocommerce_Stock_Status_Stock_Change();
 	}
 
 	/**
