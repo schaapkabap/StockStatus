@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a961b22-45ca-4350-b828-3af3379368ae" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status-stock-change.php" afterPath="$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status-stock-change.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status.php" afterPath="$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/woocommmerce-stock-status/woocommerce-stock-status.php" afterPath="$PROJECT_DIR$/woocommmerce-stock-status/woocommerce-stock-status.php" />
     </list>
     <ignored path="StockStatus.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +29,8 @@
       <file leaf-file-name="woocommerce-stock-status.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/woocommerce-stock-status.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="70" column="15" selection-start-line="70" selection-start-column="15" selection-end-line="70" selection-end-column="15" />
+            <state relative-caret-position="792">
+              <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -37,66 +39,28 @@
       <file leaf-file-name="class-woocommerce-stock-status-settings-tab.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status-settings-tab.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="18">
               <caret line="18" column="30" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="class-woocommerce-stock-status-stock-change.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="class-woocommerce-stock-status-stock-change.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status-stock-change.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="78" column="24" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
+            <state relative-caret-position="252">
+              <caret line="95" column="2" selection-start-line="95" selection-start-column="2" selection-end-line="95" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="class-wc-product-data-store-cpt.php" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/www/wordpress/wp-content/plugins/woocommerce/includes/data-stores/class-wc-product-data-store-cpt.php">
+      <file leaf-file-name="class-woocommerce-stock-status-initial-db.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status-initial-db.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1065">
-              <caret line="219" column="8" selection-start-line="219" selection-start-column="8" selection-end-line="219" selection-end-column="8" />
-              <folding>
-                <marker date="1493397156000" expanded="true" signature="26295:26910" ph="SELECT post.... wp_posts" />
-                <marker date="1493397156000" expanded="true" signature="28286:28644" ph="SELECT wp_po... wp_posts" />
-                <marker date="1493397156000" expanded="true" signature="28907:29206" ph="SELECT posts... wp_posts" />
-                <marker date="1493397156000" expanded="true" signature="29449:29931" ph="SELECT postm... $" />
-                <marker date="1493397156000" expanded="true" signature="30207:30690" ph="SELECT postm... $" />
-                <marker date="1493397156000" expanded="true" signature="33144:33286" ph="SELECT ID FR... $" />
-                <marker date="1493397156000" expanded="true" signature="34855:34895" ph="SELECT DISTI... $" />
-                <marker date="1493397156000" expanded="true" signature="36955:37053" ph="UPDATE ${{$w... " />
-                <marker date="1493397156000" expanded="true" signature="37168:37266" ph="UPDATE ${{$w... " />
-                <marker date="1493397156000" expanded="true" signature="37373:37458" ph="UPDATE ${{$w... " />
-                <marker date="1493397156000" expanded="true" signature="38186:38289" ph="UPDATE ${{$w... " />
-                <marker date="1493397156000" expanded="true" signature="38387:38490" ph="UPDATE ${{$w... " />
-                <marker date="1493397156000" expanded="true" signature="38580:38670" ph="UPDATE ${{$w... " />
-                <marker date="1493397156000" expanded="true" signature="43690:44208" ph="SELECT DISTI... $" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="class-wc-ajax.php" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/www/wordpress/wp-content/plugins/woocommerce/includes/class-wc-ajax.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="633">
-              <caret line="991" column="12" selection-start-line="991" selection-start-column="12" selection-end-line="991" selection-end-column="12" />
-              <folding>
-                <marker date="1492708512000" expanded="true" signature="41634:41743" ph="SELECT ID, m... $" />
-                <marker date="1492708512000" expanded="true" signature="69867:69960" ph="SELECT metho... $" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="abstract-wc-data.php" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/www/wordpress/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-data.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="262" column="38" selection-start-line="262" selection-start-column="38" selection-end-line="262" selection-end-column="38" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -105,8 +69,8 @@
       <file leaf-file-name="class-woocommerce-stock-status.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-414">
-              <caret line="77" column="43" selection-start-line="77" selection-start-column="43" selection-end-line="77" selection-end-column="43" />
+            <state relative-caret-position="-288">
+              <caret line="202" column="66" selection-start-line="202" selection-start-column="66" selection-end-line="202" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -120,6 +84,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status-meta.php" />
+        <option value="$USER_HOME$/www/wordpress/wp-content/plugins/woocommmerce-stock-status/includes/class-woocommerce-stock-status-stock-change.php" />
+        <option value="$PROJECT_DIR$/woocommmerce-stock-status/woocommerce-stock-status.php" />
         <option value="$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status.php" />
         <option value="$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status-stock-change.php" />
       </list>
@@ -244,7 +211,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.selected.configurable" value="php.wordpress.base.configurable" />
     <property name="last_opened_file_path" value="$USER_HOME$/www/wordpress" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -323,35 +290,37 @@
       <option name="presentableId" value="Default" />
       <updated>1496224621563</updated>
       <workItem from="1496224622798" duration="2713000" />
-      <workItem from="1496228702297" duration="9181000" />
+      <workItem from="1496228702297" duration="9583000" />
+      <workItem from="1496303565165" duration="7842000" />
+      <workItem from="1496735236393" duration="17777000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11894000" />
+    <option name="totallyTimeSpent" value="37915000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="-1" width="1920" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1515625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.221875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39958158" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39958158" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -370,11 +339,94 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/woocommerce-stock-status.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1476">
+          <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status-settings-tab.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status-stock-change.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1422">
+          <caret line="79" column="24" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/www/wordpress/wp-includes/author-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1471994309000" expanded="true" signature="12393:12529" ph="SELECT DISTI... " />
+            <marker date="1471994309000" expanded="true" signature="14872:14978" ph="SELECT DISTI... wp_posts" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status-loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status-meta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/www/wordpress/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10584">
+          <caret line="588" column="20" selection-start-line="588" selection-start-column="20" selection-end-line="588" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2970">
+          <caret line="176" column="30" selection-start-line="176" selection-start-column="30" selection-end-line="176" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/woocommerce-stock-status.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status-settings-tab.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status-deactivator.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -399,9 +451,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
-          <folding>
-            <element signature="e#7#189#0#PHP" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -441,7 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -449,9 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#7#186#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -485,7 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -493,9 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#7#186#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -505,27 +547,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#7#298#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status-loader.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
-          <folding>
-            <element signature="e#7#189#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/www/wordpress/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-order-item.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <marker date="1490373060000" expanded="true" signature="3099:3106" ph="×" />
-            <marker date="1490373060000" expanded="true" signature="6961:6968" ph="–" />
           </folding>
         </state>
       </provider>
@@ -542,30 +563,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/www/wordpress/wp-content/upgrade/woocommerce.3.0.7-W9OqD5/woocommerce/includes/data-stores/class-wc-product-data-store-cpt.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="165" column="32" selection-start-line="165" selection-start-column="29" selection-end-line="165" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/www/wordpress/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="369" column="20" selection-start-line="369" selection-start-column="20" selection-end-line="369" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/www/wordpress/wp-content/plugins/woocommerce/includes/wc-product-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="931" column="71" selection-start-line="931" selection-start-column="65" selection-end-line="931" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/www/wordpress/wp-content/upgrade/woocommerce.3.0.7-W9OqD5/woocommerce/includes/data-stores/class-wc-product-data-store-cpt.php" />
     <entry file="file://$USER_HOME$/www/wordpress/wp-content/plugins/woocommerce/includes/class-wc-order.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="515">
@@ -582,18 +580,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status.php">
+    <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status-loader.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-414">
-          <caret line="77" column="43" selection-start-line="77" selection-start-column="43" selection-end-line="77" selection-end-column="43" />
+        <state relative-caret-position="18">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/www/wordpress/wp-content/plugins/woocommerce/includes/wc-deprecated-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="182" column="9" selection-start-line="182" selection-start-column="9" selection-end-line="182" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/www/wordpress/wp-content/plugins/woocommerce/includes/class-wc-ajax.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="991" column="12" selection-start-line="991" selection-start-column="12" selection-end-line="991" selection-end-column="12" />
+        <state relative-caret-position="309">
+          <caret line="1608" column="8" selection-start-line="1608" selection-start-column="8" selection-end-line="1608" selection-end-column="8" />
           <folding>
             <marker date="1492708512000" expanded="true" signature="41634:41743" ph="SELECT ID, m... $" />
             <marker date="1492708512000" expanded="true" signature="69867:69960" ph="SELECT metho... $" />
@@ -601,10 +607,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/www/wordpress/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1147">
+          <caret line="382" column="16" selection-start-line="382" selection-start-column="16" selection-end-line="382" selection-end-column="16" />
+          <folding>
+            <marker date="1491511584000" expanded="true" signature="3986:4121" ph="SELECT COUNT... wp_posts" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/www/wordpress/wp-content/plugins/woocommmerce-stock-status/includes/class-woocommerce-stock-status-stock-change.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="90" column="1" selection-start-line="69" selection-start-column="4" selection-end-line="90" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/www/wordpress/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="1626" column="20" selection-start-line="1626" selection-start-column="20" selection-end-line="1626" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/www/wordpress/wp-content/plugins/woocommerce/includes/wc-product-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="99" column="9" selection-start-line="99" selection-start-column="9" selection-end-line="99" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status-meta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/www/wordpress/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="588" column="20" selection-start-line="588" selection-start-column="20" selection-end-line="588" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/www/wordpress/wp-content/plugins/akeebabackupwp/app/restore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="108" column="9" selection-start-line="108" selection-start-column="9" selection-end-line="108" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/woocommerce-stock-status.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/www/wordpress/wp-content/plugins/woocommerce/includes/data-stores/class-wc-product-data-store-cpt.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="219" column="8" selection-start-line="219" selection-start-column="8" selection-end-line="219" selection-end-column="8" />
+        <state relative-caret-position="309">
+          <caret line="219" column="57" selection-start-line="219" selection-start-column="49" selection-end-line="219" selection-end-column="57" />
           <folding>
             <marker date="1493397156000" expanded="true" signature="26295:26910" ph="SELECT post.... wp_posts" />
             <marker date="1493397156000" expanded="true" signature="28286:28644" ph="SELECT wp_po... wp_posts" />
@@ -624,34 +696,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/uninstall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288">
+          <caret line="202" column="66" selection-start-line="202" selection-start-column="66" selection-end-line="202" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status-settings-tab.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="18">
           <caret line="18" column="30" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/woocommerce-stock-status.php">
+    <entry file="file://$USER_HOME$/www/wordpress/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-order-item.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="70" column="15" selection-start-line="70" selection-start-column="15" selection-end-line="70" selection-end-column="15" />
+        <state relative-caret-position="90">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1490373060000" expanded="true" signature="3099:3106" ph="×" />
+            <marker date="1490373060000" expanded="true" signature="6961:6968" ph="–" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status-initial-db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/www/wordpress/wp-includes/author-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="87" column="44" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="44" />
+          <folding>
+            <marker date="1471994309000" expanded="true" signature="12393:12529" ph="SELECT DISTI... " />
+            <marker date="1471994309000" expanded="true" signature="14872:14978" ph="SELECT DISTI... wp_posts" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/woocommmerce-stock-status/includes/class-woocommerce-stock-status-stock-change.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="78" column="24" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/www/wordpress/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-data.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="262" column="38" selection-start-line="262" selection-start-column="38" selection-end-line="262" selection-end-column="38" />
+        <state relative-caret-position="252">
+          <caret line="95" column="2" selection-start-line="95" selection-start-column="2" selection-end-line="95" selection-end-column="2" />
           <folding />
         </state>
       </provider>
