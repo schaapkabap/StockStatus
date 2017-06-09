@@ -96,14 +96,14 @@ class Woocommerce_Stock_Status_Stock_Meta {
 
 			<?php wp_nonce_field( basename( __FILE__ ), 'smashing_post_class_nonce' ); ?>
 			<table style="width:100%">
-				<thead>
+
 				<tr>
-					<th>WijzigingsDatum</th>
-					<th>Aantal</th>
-					<th>Gebruiker</th>
-					<th>Variatie</th>
+					<th><span>WijzigingsDatum</span></th>
+					<th><span>Aantal</span></th>
+					<th><span>Gebruiker</span></th>
+					<th><span>Variatie</span></th>
 				</tr>
-				</thead>
+
 
 				<?php
 				$post_id = get_post()->ID;
@@ -140,7 +140,9 @@ class Woocommerce_Stock_Status_Stock_Meta {
 					return;
 				}
 
-
+				usort($stock_history_parent, function ($item1, $item2) {
+					return $item2['modified'] <=> $item1['modified'];
+				});
 				foreach ( $stock_history_parent as $item ) {
 
 					?>
